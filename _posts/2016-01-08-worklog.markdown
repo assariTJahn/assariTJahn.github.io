@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: "AWS RDB setting and rebuild data structure for Oracle Database"
 date: 2016-01-08 22:11:58
 categories: jekyll update
