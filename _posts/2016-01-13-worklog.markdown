@@ -1,0 +1,10 @@
+---
+layout: post
+title: "setting up log4j"
+date: 2016-01-13 22:11:58
+categories: jekyll update
+---
+'setting up log4j on JSP'
+don't use .properties
+
+confliction occured with Tomcat7.0 when log4jweb files were placed in lib directory of web-inf.
