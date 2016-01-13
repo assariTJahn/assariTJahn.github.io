@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 I don't know this blog support korean character. anyway I'm gonna write in english.
 I found that something gonna be wrong. I haven't seen data structure like this before and how it works.
-Actually, I've never used AWS before, but 'thanks to documents for AWS' it wasn't hard to know how to manage this service.
+Actually, I've never used AWS before, but `thanks to documents for AWS` it wasn't hard to know how to manage this service.
 
 anyway, I will upload post every day.
 It may help improving my english skill.
@@ -15,8 +15,7 @@ and I decided to establish version control system for it was hard to understatnd
 
 I reckon it's better than nothing. but little bit disorientated.
 
-'Recreated tables on AWS oracle'
-'Adjusted VPC setting'
-'Translated ERwin to EXerd'
-'AWS linux connection confirmed'
-
+`Recreated tables on AWS oracle`
+`Adjusted VPC setting`
+`Translated ERwin to EXerd`
+`AWS linux connection confirmed`
